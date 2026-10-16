@@ -7,4 +7,4 @@ Pronounced R-ee-s
 - ⚡ **Automation & Scripting:** Python (AsyncIO, FastAPI), PowerShell, Bash, Sockets & Background Daemons
 - 🔒 **Security & Identity:** Vulnerability Remediation, System Hardening, Email Auth (SPF, DKIM, DMARC)
 - 🌐 **Portfolio & Case Studies:** [rhysferris.tech](https://rhysferris.tech)
-- 📬 **LinkedIn:** https://www.linkedin.com/in/rhys-ferris-2009ba138/
+- 📬 **LinkedIn:** https://www.linkedin.com/in/rhys-ferris/
